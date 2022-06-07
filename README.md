@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rikard-m
-- 👀 I’m interested in efficient parallel computing environments
+- 👀 I’m interested in efficient lightweight parallel computing environments
 - 🌱 I’m currently learning Linux for microplatforms
-- 💞️ I’m looking to collaborate on lichtweight modern financial information systems
+- 💞️ I’m looking to collaborate on lightweight modern financial information systems
 - 📫 How to reach me nihad.fazlic5@gmail.com
 
 <!---
